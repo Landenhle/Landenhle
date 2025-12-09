@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Creating full stack projects for fictional businesses<br>👯 I’m looking to collaborate on Any open source projects <br>🌱 I’m currently learning Python, Statistica & Calculus<br>💬 Ask me about Anything really! <br>⚡ Fun fact Is that i can open the fridge and stare at it for for a couple of seconds, close it and still don't know what I want to eat.
 
 
 ## 🌐 Socials:
